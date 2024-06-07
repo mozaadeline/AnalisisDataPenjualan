@@ -1,0 +1,5 @@
+Inventory_ID,Product_ID,Stock_Level,Warehouse_Location
+I001,P001,100,Warehouse A
+I002,P002,150,Warehouse B
+I003,P003,200,Warehouse A
+I004,P004,250,Warehouse C

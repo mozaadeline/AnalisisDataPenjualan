@@ -1,3 +1,7 @@
+Nama : Moza Adeline Baeten
+NIM : 12030122120010
+Kelas : Pengkodean dan Pemrograman F
+
 # PengkodeandanPemrograman-AnalisisData
 Tugas Pengkodean dan Pemrograman Kelas F (Latihan Python)
 
